@@ -5,6 +5,7 @@ fcc-apis
 
 @http
 get /
+get /about
 get /json
 get /now
 get /echo/:word
